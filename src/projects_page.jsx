@@ -180,7 +180,7 @@ const ProjectsPage = () => {
         </div>
 
       </div>
-      <Hr/>
+      
       <Footer/>
     </div>
   );
