@@ -6,7 +6,7 @@ import "animate.css";
 import Header from "./header";
 import Hover from "./mouse_hover";
 import Footer from "./footer";
-import Hr from "./Hr.jsx";
+
 import Gym from "./assets/gym.JPG"
 import Bank from "./assets/banking.JPG"
 import Shop from "./assets/e_commerce.JPG"
