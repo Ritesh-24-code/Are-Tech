@@ -37,7 +37,7 @@ const landing_para = () => {
                     </div>
                     <div className=' w-fit text-white btn   btn-outline    cursor-none '>
                         <NavLink to="/#contact" className=' w-fit cursor-none   '>
-                            Conatct&nbsp;Me
+                            Contact&nbsp;Me
                         </NavLink>
                     </div>
                 </div>
