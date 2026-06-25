@@ -5,7 +5,7 @@ import Logo from "./assets/logo.png"
 const name = () => {
     return (
         <div  className='flex justify-center align-middle items-center   animate__animated  animate__fadeInLeft'>
-            <a href="#"  className='flex justify-center align-middle items-center  '>
+            <a href="https://www.aretech.co.in/"  className='flex justify-center align-middle items-center  '>
                 <div className='flex justify-center align-middle  items-end translate-y-2'>
                 <img src={Logo} alt="" className='w-20 h-20 logo  max-[320px]:w-17 '  />
             </div>
